@@ -13,3 +13,12 @@ comments syntax
 1. cars
 2. trucks
 3. boats
+
+# Bold
+**BOLD**
+
+# Italics
+*Italics*
+
+# Strikethrough
+~~Strikethrough~~
